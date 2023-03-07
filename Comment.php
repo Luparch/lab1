@@ -1,6 +1,6 @@
 <?php namespace u8200620\lab1;
 
-    require 'vendor/autoload.php';//require 'User.php';
+    require 'vendor/autoload.php';
 
     use u8200620\lab1\User;
     use DateTime;

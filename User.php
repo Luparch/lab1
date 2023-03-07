@@ -1,4 +1,5 @@
 <?php namespace u8200620\lab1;
+
     require 'vendor/autoload.php';
 
     use DateTime;
