@@ -1,0 +1,10 @@
+{
+ "autoload":{
+    "require": {
+        "symfony/validator": "^6.2"
+    },
+    "psr-4":{
+        "u8200620\\lab1\\":"." 
+    }
+ }
+}
